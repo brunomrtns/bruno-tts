@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Configs locais
+*.log
+
+# Arquivos de áudio gerados
+outputs
+
+# Outros
+.DS_Store
